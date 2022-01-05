@@ -43,7 +43,8 @@ body{
     background-image:linear-gradient(white , tomato ,orange , red);
    
     border-radius:7px;
-    padding:6px;
+    padding:7px;
+    margin-left:60px;
 
 }
 .work9{
@@ -55,4 +56,12 @@ body{
 .work10{
     font-size:40px;
     
+}
+.work11{
+    background-image:linear-gradient(tomato,white,black,blue,red);
+    text-decoration:none;
+    color:cyan;
+    padding:5px;
+    margin-left:60px;
+    border-radius:7px;
 }
