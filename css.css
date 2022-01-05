@@ -46,3 +46,13 @@ body{
     padding:6px;
 
 }
+.work9{
+    display:flex;
+    background-image:url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
+}
+.work10{
+    font-size:40px;
+    
+}
