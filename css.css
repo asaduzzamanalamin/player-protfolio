@@ -1,0 +1,48 @@
+body{
+    font-family: 'The Nautigal', cursive;
+    margin:0;
+}
+.work{
+
+    background-image: url('photo-1508098682722-e99c43a406b2.jpg');
+    background-attachment:fixed;
+    background-repeat:no-repeat ;
+    background-size:100%;
+
+}
+.work1{
+    color:red;
+    font-size:050px;
+}
+.work2{
+    color:cyan;
+}
+.work3{
+    color:tomato;
+}
+.work4{
+    color:deeppink;
+}
+.work5{
+    color:gold
+}
+.work5{
+    display:flex;
+    text-align:justify;
+}
+.work6{
+    width:50%;
+    margin-left:30px;
+}
+.work7{
+    width:50%;
+    margin-left:200px;
+}
+.work8{
+    text-decoration: none;
+    background-image:linear-gradient(white , tomato ,orange , red);
+   
+    border-radius:7px;
+    padding:6px;
+
+}
