@@ -65,3 +65,35 @@ body{
     margin-left:60px;
     border-radius:7px;
 }
+.work12{
+    color:tomato;
+    font-size:50px;
+}
+.work15{
+    color:deepskyblue;
+    width:50%;
+    
+}
+.work13{
+    display:flex;
+}
+.work14{
+    box-shadow:10px 10px 80px black;
+    width:40%;
+    margin-left:80px;
+    padding:10px;
+    border-left:5px solid;
+    border-image:linear-gradient(salmon,tomato);
+    border-image-slice:1;
+}
+
+.work16{
+    box-shadow:10px 10px 80px black;
+    width:40%;
+    margin-left:100px;
+    padding:10px;
+    border-left:5px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice:1;
+    
+}
